@@ -1,2 +1,2 @@
-<Context path="" docBase="${artifactory.home}/webapps/ROOT.war" />
+<Context path="" docBase="${artifactory.home}/webapps/artifactory.war" />
 
